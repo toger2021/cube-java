@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: local
+  application:
+    name: demo-grpc-user-domain
+  main:
+    allow-bean-definition-overriding: true
+management:
+  endpoints:
+    web:
+      exposure:
+        include: startup

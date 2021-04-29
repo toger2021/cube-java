@@ -1,0 +1,7 @@
+## profile 名称
+profile:
+  name: local
+server:
+  port: 9099
+swagger:
+  enable: true
