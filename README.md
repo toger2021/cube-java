@@ -8,7 +8,7 @@ Restful
 # Cube Solver cubiks2D JFrame
 本窗体解码在原项目基础上做了优化，调整了缓存，部分样式，向原作者致敬
 参考项目
-[源码地址 https://github.com/manojbhatt101010/cubiks2D](https://github.com/manojbhatt101010/cubiks2D)
+[原项目地址 https://github.com/manojbhatt101010/cubiks2D](https://github.com/manojbhatt101010/cubiks2D)
 
 ![fill.png](Screenshots/fill.png)
 ![solution.png](Screenshots/solution.png)
