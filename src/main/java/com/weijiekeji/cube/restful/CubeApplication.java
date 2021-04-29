@@ -1,4 +1,4 @@
-package com.weijiekeji.cube.restful;
+package com.weijiekeji.cube.Restful;
 
 import com.weijiekeji.kociemba.twophase.CoordCube;
 import org.springframework.boot.SpringApplication;

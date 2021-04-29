@@ -1,4 +1,4 @@
-package com.weijiekeji.cube.restful.config;
+package com.weijiekeji.cube.Restful.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

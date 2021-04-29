@@ -1,4 +1,4 @@
-package com.weijiekeji.cube.restful.controller;
+package com.weijiekeji.cube.Restful.controller;
 
 import lombok.Data;
 

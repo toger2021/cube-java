@@ -1,4 +1,4 @@
-package com.weijiekeji.cube.restful.controller;
+package com.weijiekeji.cube.Restful.controller;
 
 import com.weijiekeji.kociemba.twophase.SearchThreadSafe;
 import io.swagger.annotations.ApiOperation;
