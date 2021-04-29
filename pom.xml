@@ -20,7 +20,7 @@
         <dependency>
             <groupId>io.github.toger2021</groupId>
             <artifactId>cube-kociemba</artifactId>
-            <version>1.0.2-SNAPSHOT</version>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
