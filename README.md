@@ -16,4 +16,22 @@ Restful
 
 (GUI is inspired from Kociemba's[Java package](http://kociemba.org/download.htm) and org.kociemba.twophase package also belongs to him.)
 
-[源码地址 https://gitee.com/taoren/cube-java](https://gitee.com/taoren/cube-java)
+## vue-cube项目地址：
+[https://github.com/toger2021/vue-cube.git](https://github.com/toger2021/vue-cube.git)
+[https://gitee.com/taoren/vue-cube.git](https://gitee.com/taoren/vue-cube.git)
+
+## cube-java java实现以及JFrame的实现
+[https://github.com/toger2021/cube-java](https://github.com/toger2021/cube-java)
+[https://gitee.com/taoren/cube-java.git](https://gitee.com/taoren/cube-java.git)
+
+## cube-kociemba 优化后的jar包源文件
+[https://github.com/toger2021/demo-cube.git](https://github.com/toger2021/demo-cube.git)]
+[https://gitee.com/taoren/demo-cube.git](https://gitee.com/taoren/demo-cube.git)
+maven 引用使用
+```
+<dependency>
+            <groupId>io.github.toger2021</groupId>
+            <artifactId>cube-kociemba</artifactId>
+            <version>1.0.1</version>
+ </dependency>
+```
